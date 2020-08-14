@@ -27,6 +27,7 @@ return passengers[:"Amanda Presley"]
  }
 
 def happy_birthday(birthday_kids)
+  "Happy Birthday #{kids_name}! You are now #{age} years old!"
   
   
   # add your code snippet here!
